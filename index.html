@@ -1,1 +1,1 @@
-<iframe width="219" height="302" src="http://calculator-1.com/outdoor/?f=0274C8&r=666666" scrolling="no" frameborder="0"></iframe><br /><a href="https://calculator-1.com/">Calculator-1.com - The Best Free Online Calculatorн</a>
+<iframe width="219" height="302" src="https://calculator-1.com/outdoor/" scrolling="no" frameborder="0"></iframe>
